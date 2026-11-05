@@ -1834,6 +1834,3 @@ You've now completed Module 1: LLM Fundamentals. You understand:
 ---
 
 **End of Module 1**
-
-**Duration completed:** ~12 hours  
-**Recommended next:** Take a 1–2 day break, then move to Module 2 (Building with LLM APIs)
