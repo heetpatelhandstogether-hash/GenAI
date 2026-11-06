@@ -1,6 +1,5 @@
 # Module 4, Part 4: Securing a RAG Application — Detailed Learning Document
 
-**Schedule:** Days 52–56  
 **Prerequisites:** [Part 1: Build a Simple RAG](../Module_4.1/Module-4-Part-1-Building-Simple-RAG-Detailed.md), [Part 2: Advanced RAG](../Module_4.2/Module-4-Part-2-Advanced-RAG-Detailed.md), and [Part 3: Evaluating RAG](../Module_4.3/Module-4-Part-3-Evaluating-RAG-Detailed.md)  
 **Companion:** [Practical security experiments](Module-4-Part-4-OpenAI-Practical-Experiments.ipynb)  
 **Roadmap:** [Module 4, Part 4](../../GenAI.md#part-4-securing-a-rag-application-days-5256)

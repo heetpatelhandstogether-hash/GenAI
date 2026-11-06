@@ -1,6 +1,5 @@
 # Module 4, Part 1: Build a Simple RAG — Detailed Learning Document
 
-**Schedule:** Days 25–36  
 **Prerequisites:** Modules 1–3, basic Python, OpenAI API usage and prompt engineering  
 **Companion:** [Part 1 practical experiments](Module-4-Part-1-OpenAI-Practical-Experiments.ipynb)  
 **Roadmap:** [Module 4 in GenAI.md](../../GenAI.md#module-4-rag-days-2556)

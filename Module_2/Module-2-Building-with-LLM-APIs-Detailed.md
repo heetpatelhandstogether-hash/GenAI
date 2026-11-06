@@ -1,7 +1,5 @@
 # Module 2: Building with LLM APIs — Detailed Learning Document
 
-**Duration:** 11 days (Days 7–17), about 2 hours per day
-**Prerequisite:** Module 1 (tokens, context, cost, failure modes, model choice)
 **Framework:** LangChain (Python)
 **Version note:** Code was checked against the LangChain documentation on **29 Oct 2026**. LangChain, provider packages and model names change often, so confirm against the docs linked at the end before you build.
 

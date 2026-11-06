@@ -1,6 +1,5 @@
 # Module 4, Part 2: Advanced RAG — Detailed Learning Document
 
-**Schedule:** Days 37–44  
 **Prerequisite:** [Part 1: Build a Simple RAG](../Module_4.1/Module-4-Part-1-Building-Simple-RAG-Detailed.md), Python and OpenAI API basics  
 **Companion:** [Advanced RAG practical notebook](Module-4-Part-2-OpenAI-Practical-Experiments.ipynb)  
 **Roadmap:** [Module 4, Part 2](../../GenAI.md#part-2-advanced-rag-days-3744)

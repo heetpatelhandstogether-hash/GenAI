@@ -1,6 +1,5 @@
 # Module 4, Part 3: Evaluating RAG — Detailed Learning Document
 
-**Schedule:** Days 45–51  
 **Prerequisite:** [Part 1: Build a Simple RAG](../Module_4.1/Module-4-Part-1-Building-Simple-RAG-Detailed.md) and [Part 2: Advanced RAG](../Module_4.2/Module-4-Part-2-Advanced-RAG-Detailed.md)  
 **Companion:** [OpenAI practical experiments](Module-4-Part-3-OpenAI-Practical-Experiments.ipynb)  
 **Roadmap:** [Part 3 in GenAI.md](../../GenAI.md#part-3-evaluating-rag-days-4551)

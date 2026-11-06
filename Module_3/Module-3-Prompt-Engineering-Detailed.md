@@ -1,6 +1,5 @@
 # Module 3: Prompt Engineering — Detailed Learning Document
 
-**Duration:** 7 days (Days 18–24), approximately 2 hours per day  
 **Prerequisite:** Modules 1 and 2: tokens, OpenAI API calls, structured outputs, tool calling, and basic Python  
 **Tools:** Python, the OpenAI API, and optionally LangChain  
 **Scope:** Eight units from [GenAI.md](../GenAI.md), followed by practice exercises and an assessment.

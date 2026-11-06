@@ -1,6 +1,5 @@
 # Module 1: LLM Fundamentals — Detailed Learning Document
 
-**Duration:** 6 days, ~2 hours per day (approximately 12 hours total)  
 **Prerequisites:** Basic Python knowledge, familiarity with API calls, and an API key from at least one LLM provider (OpenAI, Anthropic, Google, etc.)
 
 **By the end of this module, you will:**
